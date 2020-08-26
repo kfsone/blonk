@@ -1,0 +1,6 @@
+.blonk.rc
+.idea
+.vs
+.vscode
+.code
+.venv*
